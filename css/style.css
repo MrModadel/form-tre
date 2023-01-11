@@ -123,9 +123,6 @@
     width: 130px;
     height: 140px;
   }
-  .form__content {
-    border: 3px solid #2442fc;
-  }
 }
 @media (max-width: 576px) {
   .form__logo {
@@ -196,6 +193,7 @@
   }
   .form__button {
     margin: 0 20px;
+    top: 425px;
   }
 }
 @media (max-width: 360px) {
